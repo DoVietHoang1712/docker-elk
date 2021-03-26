@@ -4,4 +4,5 @@ network.host: 0.0.0.0
 xpack.license.self_generated.type: basic
 xpack.security.enabled: true
 xpack.security.transport.ssl.enabled: true
+ELASTIC_PASSWORD: hoangdo
 xpack.monitoring.collection.enabled: true
